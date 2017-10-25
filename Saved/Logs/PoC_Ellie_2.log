@@ -410,3 +410,175 @@ LogInit: Object subsystem initialized
 [2017.10.25-04.17.59:016][839]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Primary User/Documents/Unreal Projects/PoC_Ellie/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
 [2017.10.25-04.17.59:021][839]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.096
 [2017.10.25-04.17.59:021][839]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.096
+[2017.10.25-04.20.53:356][868]LogSavePackage: Save=52.02ms
+[2017.10.25-04.20.53:356][868]LogSavePackage: Moving '../../../../../../Users/Primary User/Documents/Unreal Projects/PoC_Ellie/Saved/ThirdPersonExampleMapCC944B00431EB4CBD06032891C446265.tmp' to '../../../../../../Users/Primary User/Documents/Unreal Projects/PoC_Ellie/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.10.25-04.20.53:362][868]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Primary User/Documents/Unreal Projects/PoC_Ellie/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.10.25-04.20.53:387][868]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.154
+[2017.10.25-04.20.58:241][247]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2017.10.25-04.21.14:674][ 40]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2017.10.25-04.21.14:674][ 40]SourceControl: Error: Content/StormPack/Maps/DayBlizzard_Preview_BuiltData.uasset
+[2017.10.25-04.21.14:674][ 40]SourceControl: Error: Content/StormPack/Maps/DayHailRain_Preview_BuiltData.uasset
+[2017.10.25-04.21.14:674][ 40]SourceControl: Error: Content/StormPack/Maps/DayLightRain_Preview_BuiltData.uasset
+[2017.10.25-04.21.14:674][ 40]SourceControl: Error: Content/StormPack/Maps/DayLightSnow_Preview_BuiltData.uasset
+[2017.10.25-04.21.14:674][ 40]SourceControl: Error: Content/StormPack/Maps/DayStorm_Preview_BuiltData.uasset
+[2017.10.25-04.21.14:674][ 40]SourceControl: Error: Content/StormPack/Maps/NightStorm_Preview_BuiltData.uasset
+[2017.10.25-04.21.14:674][ 40]SourceControl: Error: Content/StormPack/Maps/RuntimeEdit_Preview_BuiltData.uasset
+[2017.10.25-04.21.14:674][ 40]SourceControl: Error: Use -f if you really want to add them.
+[2017.10.25-04.21.26:175][780]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2017.10.25-04.21.45:726][780]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.10.25-04.21.46:218][780]SourceControl: [KeeganD 105a782] Storm Pack and Map
+[2017.10.25-04.21.46:218][780]SourceControl:  50 files changed, 0 insertions(+), 0 deletions(-)
+[2017.10.25-04.21.46:218][780]SourceControl:  create mode 100644 Content/StormPack/Blueprints/BP_WeatherTool.uasset
+[2017.10.25-04.21.46:218][780]SourceControl:  create mode 100644 Content/StormPack/Blueprints/Enums/E_RainStyle.uasset
+[2017.10.25-04.21.46:218][780]SourceControl:  create mode 100644 Content/StormPack/Blueprints/Enums/E_SnowStyle.uasset
+[2017.10.25-04.21.46:218][780]SourceControl:  create mode 100644 Content/StormPack/Maps/DayBlizzard_Preview.umap
+[2017.10.25-04.21.46:218][780]SourceControl:  create mode 100644 Content/StormPack/Maps/DayHailRain_Preview.umap
+[2017.10.25-04.21.46:218][780]SourceControl:  create mode 100644 Content/StormPack/Maps/DayLightRain_Preview.umap
+[2017.10.25-04.21.46:218][780]SourceControl:  create mode 100644 Content/StormPack/Maps/DayLightSnow_Preview.umap
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/DayStorm_Preview.umap
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/NightStorm_Preview.umap
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/Preview_sharedassets/Dirt1_LayerInfo.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/Preview_sharedassets/Dirt2_LayerInfo.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/Preview_sharedassets/Grass1_LayerInfo.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/Preview_sharedassets/Grass2_LayerInfo.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/Preview_sharedassets/Grass_LayerInfo.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/Preview_sharedassets/Rock1_LayerInfo.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/Preview_sharedassets/Rock_LayerInfo.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/RuntimeEdit_Preview.umap
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Functions/MF_StormModifier.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Functions/MPC_StormMaterial.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Functions/M_LightningLight.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Instances/MI_PPScreenEffect.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Instances/MI_Rain.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Instances/MI_Snow.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_BoltLightning.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_Clear.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_CloudSprite.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_Hail.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_PPScreenEffect.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_Rain.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_RainImpact.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_SheetLightning.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_Sky.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_SnowHeavy.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_SnowLight.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_Splash.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Previews/M_DefaultPreview.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Previews/M_Terrain_Preview.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Models/SM_Hail.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Particles/PS_HailStorm.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Particles/PS_LightningBolts.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Particles/PS_Rain.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Particles/PS_RainGPU.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Particles/PS_RainWind.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Particles/PS_SheetLightning.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Particles/PS_SnowHeavy.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Cues/SC_BlizzardWind.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Cues/SC_RainLoop.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Cues/SC_ThunderRumble.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Wavs/S_BlizzardWind.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Wavs/S_HailHit.uasset
+[2017.10.25-04.21.46:219][780]SourceControl: [KeeganD f748d40] Storm Pack and Map
+[2017.10.25-04.21.46:219][780]SourceControl:  Date: Tue Oct 24 21:21:44 2017 -0700
+[2017.10.25-04.21.46:219][780]SourceControl:  77 files changed, 0 insertions(+), 0 deletions(-)
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Blueprints/BP_WeatherTool.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Blueprints/Enums/E_RainStyle.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Blueprints/Enums/E_SnowStyle.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/DayBlizzard_Preview.umap
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/DayHailRain_Preview.umap
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/DayLightRain_Preview.umap
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/DayLightSnow_Preview.umap
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/DayStorm_Preview.umap
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/NightStorm_Preview.umap
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/Preview_sharedassets/Dirt1_LayerInfo.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/Preview_sharedassets/Dirt2_LayerInfo.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/Preview_sharedassets/Grass1_LayerInfo.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/Preview_sharedassets/Grass2_LayerInfo.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/Preview_sharedassets/Grass_LayerInfo.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/Preview_sharedassets/Rock1_LayerInfo.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/Preview_sharedassets/Rock_LayerInfo.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Maps/RuntimeEdit_Preview.umap
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Functions/MF_StormModifier.uasset
+[2017.10.25-04.21.46:219][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Functions/MPC_StormMaterial.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Functions/M_LightningLight.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Instances/MI_PPScreenEffect.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Instances/MI_Rain.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Instances/MI_Snow.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_BoltLightning.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_Clear.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_CloudSprite.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_Hail.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_PPScreenEffect.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_Rain.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_RainImpact.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_SheetLightning.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_Sky.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_SnowHeavy.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_SnowLight.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/M_Splash.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Previews/M_DefaultPreview.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Materials/Previews/M_Terrain_Preview.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Models/SM_Hail.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Particles/PS_HailStorm.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Particles/PS_LightningBolts.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Particles/PS_Rain.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Particles/PS_RainGPU.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Particles/PS_RainWind.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Particles/PS_SheetLightning.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Particles/PS_SnowHeavy.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Cues/SC_BlizzardWind.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Cues/SC_RainLoop.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Cues/SC_ThunderRumble.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Wavs/S_BlizzardWind.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Wavs/S_HailHit.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Wavs/S_LightningStrike.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Wavs/S_RainLoop.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Wavs/S_ThunderRumble_1.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Wavs/S_ThunderRumble_2.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Wavs/S_ThunderRumble_3.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Sound/Wavs/S_ThunderRumble_4.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/CloudSprite_BC.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/FogSprite_BC.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/FrostScreen_N.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/Perlin_Noise_BC.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/PreviewTextures/Cliff2Preview_BC.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/PreviewTextures/Cliff2Preview_N.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/PreviewTextures/Dirt2Preview_BC.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/PreviewTextures/Dirt2Preview_N.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/PreviewTextures/DirtPreview_BC.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/PreviewTextures/DirtPreview_N.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/PreviewTextures/Grass2Preview_BC.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/PreviewTextures/GrassPreview_N.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/Raindrop2_BC.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/Raindrop3_BC.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/Raindrop_BC.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/Raindrops_SS_N.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/SheetLightning_BC.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/Snow_N.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/Snowflake2_BC.uasset
+[2017.10.25-04.21.46:220][780]SourceControl:  create mode 100644 Content/StormPack/Textures/Snowflake_BC.uasset
+[2017.10.25-04.21.46:224][780]SourceControl: Commited [KeeganD 105a782] Storm Pack and Map.
+[2017.10.25-04.23.42:005][370]LogHttp: Warning: 0000014B2EAE9A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.10.25-04.23.42:005][370]LogHttp: Warning: 0000014B2EAE9A80: libcurl info message cache 0 (Connection 5 seems to be dead!)
+[2017.10.25-04.23.42:005][370]LogHttp: Warning: 0000014B2EAE9A80: libcurl info message cache 1 (Closing connection 5)
+[2017.10.25-04.23.42:005][370]LogHttp: Warning: 0000014B2EAE9A80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2017.10.25-04.23.42:005][370]LogHttp: Warning: 0000014B2EAE9A80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.10.25-04.23.42:005][370]LogHttp: Warning: 0000014B2EAE9A80: libcurl info message cache 4 (Closing connection 6)
+[2017.10.25-04.29.19:867][541]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-04.29.19:884][541]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.25-04.29.19:884][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-04.29.19:884][541]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 24, 2017, 2:29:19 PM)
+[2017.10.25-04.29.19:884][541]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.25-04.29.19:904][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019457s)
+[2017.10.25-04.29.19:905][541]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.25-04.29.19:905][541]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2017.10.25-04.29.19:905][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021009s)
+[2017.10.25-04.29.19:922][541]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.25-04.29.19:931][541]LogInit: FAudioDevice initialized.
+[2017.10.25-04.29.19:964][541]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.25-04.29.19:966][541]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.24-21.29.19
+[2017.10.25-04.29.19:966][541]LogWorld: Bringing up level for play took: 0.001543
+[2017.10.25-04.29.19:968][541]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.232
+[2017.10.25-04.29.19:969][541]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.25-04.29.21:498][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.25-04.29.21:528][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
