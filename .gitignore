@@ -73,11 +73,3 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Intermediate/CachedAssetRegistry.bin
-Intermediate/CachedAssetRegistry.bin
-Saved/Autosaves/PackageRestoreData.json
-Saved/AutoScreenshot.png
-Saved/Config/CrashReportClient/UE4CC-Windows-C7AB626947C666DDAA53EFA3F406EEDC/CrashReportClient.ini
-Saved/Logs/PoC_Ellie-backup-2017.10.24-21.38.54.log
-Saved/Logs/PoC_Ellie.log
-Saved/Logs/PoC_Ellie_2.log
